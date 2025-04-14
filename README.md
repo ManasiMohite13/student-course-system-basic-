@@ -64,10 +64,6 @@ https://java-spring-course.herokuapp.com/ <br>
     - Username: admin
     - Password: admin
 
-## Licence
-
-User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
-
 ## Screenshots
 
 ![Screenshots](screenshots/screenshot01.png)<br><br>
@@ -85,6 +81,6 @@ User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 
 
 Developed by<br>
-Danilo Meneghel<br>
-danilo.meneghel@gmail.com<br>
-http://danilomeneghel.github.io/<br>
+Manasi Mohite<br>
+manasimohite3553@gmail.com<br>
+
